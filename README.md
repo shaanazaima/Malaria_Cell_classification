@@ -8,7 +8,7 @@ This project focuses on classifying microscopic blood cell images into two categ
 A Convolutional Neural Network (CNN) was developed using TensorFlow and Keras to perform binary image classification.
 
 ## Technologies Used
-- Python
+- Python 
 - TensorFlow and Keras
 - OpenCV
 - NumPy
